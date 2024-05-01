@@ -2,9 +2,9 @@ I'm learning about web development from 0 to ∞
 This reposity is learning about basic for web development
 Tech Stack: 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 I'm watching From this Youtube Chanel : https://www.youtube.com/playlist?list=PLwZ0y9k-cYXCSSU3ujBqBWMbtZcW2OGkA 
 
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 Practice 1. CreateMyForm 
 Here's my Register Form after learning HTML, CSS and Responsive Design From this Youtube Chanel : https://www.youtube.com/playlist?list=PLwZ0y9k-cYXCSSU3ujBqBWMbtZcW2OGkA 
