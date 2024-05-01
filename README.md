@@ -11,4 +11,5 @@ Here's my Register Form after learning HTML, CSS and Responsive Design From this
 (EP.01-EP.04)
 but I'm not use p'mike form I create my new form and using this img for template <!--form template form this website https://colorlib.com/wp/wp-content/uploads/sites/2/colorlib-registration-form-4.jpg-->
 My Practice : does not allow copying code of templates.
+Preview <a href="https://html-preview.github.io/?url=https://github.com/niduckdev/webdev101/blob/main/myform.html"><a/>
 
