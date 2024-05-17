@@ -20,15 +20,15 @@
                 <div class="flex">
                     <div class="flex-item">
                         <div class="bold">Firstname</div>
-                        <input type="text">
+                        <input type="text" name="firstname">
                     </div>
                     <div class="flex-item">
                         <div class="bold">Lastname</div>
-                        <input type="text">
+                        <input type="text" name="lastname">
                     </div>
                     <div class="flex-item">
                         <div class="bold">Age</div>
-                        <input type="number">
+                        <input type="number" name="age">
                     </div>
                     <div class="flex-item">
                         <div class="bold">Gender</div>
@@ -44,27 +44,30 @@
 
                     <div class="flex-item">
                         <div class="bold">Email</div>
-                        <input type="text">
+                        <input type="text" name="email">
                     </div>
                     <div class="flex-item">
                         <div class="bold">Phone Number</div>
-                        <input type="text">
+                        <input type="number" name="phonenumber">
                     </div>
 
                     <div class="flex-item">
-                        <div class="bold">Subject</div>
-                        <input type="text" style="width: 100%;">
+                        <div class="bold">Description</div>
+                        <input type="text" style="width: 100%;" name="description">
                     </div>
                     
                 </div>
 
                 
                 <div class="flex-item">
-                    <button>Submit</button>
+                    <button onclick="submitData()" class="button">Submit</button>
                 </div>
             </div>
         </div>
     </div>
+
+
+    <script src="index.js"></script>
 
 </body>
 
