@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User management</title>
+    <style>
+        @font-face {
+            font-family: 'Kanit';
+            src: url('./Kanit/Kanit-Regular.ttf');
+        }
+
+        * {
+            margin: 0;
+        }
+
+        body {
+            font-family: 'Kanit';
+        }
+
+        table {
+            width: 750px;
+            border-collapse: collapse;
+            margin: auto;
+            border-radius: 50px;
+            /* border: 1px solid red; */
+        }
+
+        th {
+            padding: 10px;
+        }
+
+        thead {
+            background-color: rgb(55, 197, 150);
+        }
+
+        tbody tr:nth-of-type(even) {
+            background: #eee;
+        }
+
+        tr {
+            text-align: center;
+        }
+
+
+        button {
+            background-color: rgba(51, 51, 51, 0.05);
+            border-radius: 8px;
+            padding: 5px 15px 5px 15px;
+            font-family: 'Kanit';
+        }
+
+        button:hover{
+            background-color: rgba(255, 255, 255, 0.05);
+        }
+
+        .header {
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <a href="myform.html">Back to register Page</a>
+    <br>
+    <h1 class="header">User management Page</h1>
+    <br>
+    <div id="user"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="user.js"></script>
+</body>
+
+</html>
